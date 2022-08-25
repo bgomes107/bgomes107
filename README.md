@@ -1,5 +1,5 @@
 ### Olá! 👋 <br>
-Você  sabia que a maioria das pessoas já fazem mais compras pela internet pelos seus Smartphones do que no computador desktop? <br>
+Você  sabia que a maioria das pessoas já fazem mais compras pela internet pelos seus Smartphones do que pelo computador desktop? <br>
 Interessado(a) em um app que possa melhorar sua produtividade ou expandir seu negócio para o mercado mobile com alcance para milhares ou até milhões de pessoas?
 
 ### Contatos:
