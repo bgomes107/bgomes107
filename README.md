@@ -1,6 +1,21 @@
-### Olá! 👋 <br>
-Você  sabia que a maioria das pessoas já fazem mais compras pela internet pelos seus Smartphones do que pelo computador desktop? <br>
-Interessado(a) em um app que possa melhorar sua produtividade ou expandir seu negócio para o mercado mobile com alcance para milhares ou até milhões de pessoas?
+### Olá!👋 <br>
+Você que tem uma ideia inovadora e que busca otimizar a vida das pessoas por meio da tecnologia.<br>
+Sabia que o Smartphone já é o principal meio de acesso à internet das pessoas no Brasil?<br>
+Já são mais de 242 milhões de Smartphones no país, segundo levantamento divulgado pela FGV.<br>
+Interessado(a) em um app que possa melhorar sua interação com seus clientes ou expandir seu negócio para o mercado mobile com alcance para milhares ou até milhões de pessoas?<br>
+Me permita participar dessa jornada!
+
+Linguagens e Framework que utilizo:
+- JavaScript(ES6), React Native, HTML e CSS;
+
+Softwares e Ferramentas de desenvolvimento:
+- Visual Studio Code, Android Studio e Figma;
+
+Database:
+- Firebase;
+
+Sistemas Operacionais:
+- Android e iOS;
 
 ### Contatos:
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-gomes-92379a249/)
