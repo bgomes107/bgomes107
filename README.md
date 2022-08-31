@@ -1,9 +1,8 @@
 ### Olá!👋 <br>
-Você que tem uma ideia inovadora e que busca otimizar a vida das pessoas por meio da tecnologia.<br>
-Sabia que o Smartphone já é o principal meio de acesso à internet das pessoas no Brasil?<br>
-Já são mais de 242 milhões de Smartphones no país, segundo levantamento divulgado pela FGV.<br>
-Interessado(a) em um app que possa melhorar sua interação com seus clientes ou expandir seu negócio para o mercado mobile com alcance para milhares ou até milhões de pessoas?<br>
-Me permita participar dessa jornada!
+Olá! 👋 sou Bruno Gomes de Oliveira, 
+Desenvolvedor mobile comprometido com o desenvolvimento de aplicações e soluções que possam resultar na otimização da relação cliente empresa e na expansão do seu negócio para o mercado mobile que não para de crescer.
+O Smartphone já é o principal meio de acesso à internet das pessoas no Brasil. Já são mais de 242 milhões de Smartphones no país, segundo levantamento divulgado pela FGV.
+Busco desenvolver e promover aplicações que beneficiem o setor produtivo que é fundamental na economia de um país.
 
 Linguagens e Framework que utilizo:
 - JavaScript(ES6), React Native, HTML e CSS;
@@ -15,7 +14,7 @@ Database:
 - Firebase;
 
 Sistemas Operacionais:
-- Android e iOS;
+- Android;
 
 ### Contatos:
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-gomes-92379a249/)
@@ -53,5 +52,4 @@ Email: bgomes107fox@gmail.com;
 
 <div style='display: inline_block'>
     <img align='center' alt='android' src='https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white'/>
-     <img align='center' alt='ios' src='https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white'/>
 </div><br/>
