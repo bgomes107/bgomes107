@@ -48,7 +48,7 @@ Email: bgomes107fox@gmail.com;
      <img align='center' alt='firebase' src='https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase'/>
 </div><br/>
 
-### Sistemas Operacionais:
+### Sistema Operacional:
 
 <div style='display: inline_block'>
     <img align='center' alt='android' src='https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white'/>
