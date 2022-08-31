@@ -1,4 +1,4 @@
-### Olá!👋 👋 sou Bruno Gomes de Oliveira, <br>
+### Olá!👋 sou Bruno Gomes de Oliveira, <br>
 
 Desenvolvedor mobile comprometido com o desenvolvimento de aplicações e soluções que possam resultar na otimização da relação cliente empresa e na expansão do seu negócio para o mercado mobile que não para de crescer.
 O Smartphone já é o principal meio de acesso à internet das pessoas no Brasil. Já são mais de 242 milhões de Smartphones no país, segundo levantamento divulgado pela FGV.
