@@ -11,6 +11,8 @@ ou
 
 Email: bgomes107fox@gmail.com;
 
+### Github Stats:
+
 ![Bruno GitHub stats](https://github-readme-stats.vercel.app/api?username=bgomes107&show_icons=true&theme=synthwave)
 
 ### Linguagens e framework que utilizo:
