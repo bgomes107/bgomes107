@@ -1,7 +1,7 @@
 ### Olá!👋 <br> 
 ### Sou Bruno Gomes de Oliveira, <br>
 
-Desenvolvedor mobile(React Native) comprometido com o desenvolvimento de aplicações e soluções que possam resultar na otimização da relação cliente empresa e na expansão do seu negócio para o mercado mobile que não para de crescer.
+Desenvolvedor mobile(React Native) com 1 ano de experiência trabalhando como freelancer. Estou comprometido com o desenvolvimento de aplicações e soluções que possam resultar na otimização da relação cliente empresa e na expansão do seu negócio para o mercado mobile que não para de crescer.
 O Smartphone já é o principal meio de acesso à internet das pessoas no Brasil. Já são mais de 242 milhões de Smartphones no país, segundo levantamento divulgado pela FGV.
 
 ### Contatos:
