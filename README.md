@@ -29,6 +29,7 @@ Email: bgomes107fox@gmail.com;
 <div style='display: inline_block'>
     <img align='center' alt='vscode' src='https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white'/>
      <img align='center' alt='android-studio' src='https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white'/>
+     <img align='center' alt='android-studio' src='https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white'/>
      <img align='center' alt='figma' src='https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white'/>
 </div><br/>
 
@@ -36,6 +37,7 @@ Email: bgomes107fox@gmail.com;
 
 <div style='display: inline_block'>
      <img align='center' alt='firebase' src='https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase'/>
+     <img align='center' alt='firebase' src='https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white'/>
 </div><br/>
 
 ### Sistema Operacional:
