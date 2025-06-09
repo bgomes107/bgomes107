@@ -5,7 +5,7 @@ Desenvolvedor mobile(React Native) com 1 ano de experiência trabalhando como fr
 O Smartphone já é o principal meio de acesso à internet das pessoas no Brasil. Já são mais de 242 milhões de Smartphones no país, segundo levantamento divulgado pela FGV.
 
 ### Contatos:
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-gomes-92379a249/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-gomes-de-oliveira-3a36232b3/)
 
 ou
 
